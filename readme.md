@@ -2,7 +2,7 @@
 
 As I am nearing the end of my AWS Solutions Architect Associate exam studies. I feel I need to be more hands on and demonstrate my problem solving skills with a project.
 
-After some quick research I found the<a href="https://cloudresumechallenge.dev/docs/the-challenge/aws/">Cloud Resume Challenge - AWS</a> on youtube.
+After some quick research I found a few people recommending the <a href="https://cloudresumechallenge.dev/docs/the-challenge/aws/">Cloud Resume Challenge - AWS</a> on youtube.
 
 The goal is to re-create your resume with HTML & CSS, host it on AWS, create a visitor counter using Javascript that retrieves the count from a DynamoDB database and create an API that communicates with the database using a Lambda function coded in Python.
 

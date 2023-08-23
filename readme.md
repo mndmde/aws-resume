@@ -8,19 +8,17 @@ The goal is to re-create your resume with HTML & CSS, host it on AWS, create a v
 
 There is also CI/CD implementation using Github Actions. I am now able to update the front end straight from my command line.
 
-Tech Stack:
+Finally, provisioning these services with Infrastructure as Code using Terraform.
+
+Tech used:
 <ul>
 <li>S3</li>
 <li>AWS CloudFront</li>
 <li>AWS Lambda</li>
 <li>DynamoDB</li>
 <li>Github Actions</li>
+<li>Terraform</li>
 </ul>
 
-<h3>Future Plans</h3>
-I intend to use Terraform to be able to back up, migrate, or reproduce my resume.
-
-<h3>Room for improvement</h3>
-This is my first project using multiple programming languages and implementing AWS technologies. This project was for me to grasp how all I can use these services together. I needed some assistance on the DynamoDB and Lambda functions as I have never used it outside of brief hands on learning videos.
-
-I am going find more projects that include these services to get more familiar.
+<h3>Thoughts/Notes</h3>
+This is my first project using multiple programming languages and implementing AWS technologies. This project was for me to grasp how all I can use these services together. I have learned a lot in during this project, it has given me practical hands-on experience and the confidence to take on more complex projects.
